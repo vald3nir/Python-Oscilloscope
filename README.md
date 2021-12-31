@@ -2,7 +2,7 @@
 
 An oscilloscope made in python to analyze the frequency spectrum of a signal collected by the audio card.
 
-![alt text](/demo.png)
+![demo](https://user-images.githubusercontent.com/23506996/147837869-5c2c0cb0-3d97-4e2c-9e62-c591564a9163.png)
 
 ## ALSA LIB
 
